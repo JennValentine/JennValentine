@@ -11,7 +11,7 @@ Soy una apasionada de la ciberseguridad, siempre en busca de nuevos conocimiento
 - **Desarrollo de Scripts**: Automatización de tareas, herramientas personalizadas y soluciones innovadoras para problemas complejos.
 
 ## 📚 Aprendizaje
-Actualmente, estoy aprendiendo de manera autodidacta, aprovechando recursos en línea, cursos, y experimentación práctica para expandir mis habilidades.
+Actualmente, estoy aprendiendo de manera autodidacta, aprovechando recursos en línea, cursos y experimentación práctica para expandir mis habilidades.
 
 ## 💼 Colaboraciones
 Estoy abierta a colaborar en proyectos interesantes relacionados con:
